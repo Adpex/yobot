@@ -25,6 +25,12 @@ class News:
                 "source": "https://priconne-redive.jp/news/feed/",
                 "pattern": "标题：{title}\n链接：{link}\n{summary}",
                 "last_id": None
+            },
+            "news_tw_facebook": {
+                "name": "台服FB",
+                "source": "https://priconne-redive.jp/news/feed/",
+                "pattern": "标题：{title}\n链接：{link}\n{summary}",
+                "last_id": None
             }
         }
 
